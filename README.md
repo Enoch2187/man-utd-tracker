@@ -18,7 +18,7 @@ from the football-data.org API and provides a full season analysis.
 3. Create a '.env' file in the project root with your API key:
 'API_KEY=your_api_key_here'
 4. Get a free API key from https://www.football-data.org
-5. Run the script: 'First API Usage.py'
+5. Run the script: 'united_tracker.py'
 
 ## Data Source
 This project uses the football-data.org API (free tier)
